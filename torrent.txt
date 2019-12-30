@@ -6,4 +6,10 @@ https://psarips.eu/torrents/2019/10/Mr.Robot.S04E03.403.Forbidden.720p.10bit.WEB
 
 Hello
 
+<<<<<<< HEAD
 King123
+=======
+King
+
+Ping
+>>>>>>> manasa
